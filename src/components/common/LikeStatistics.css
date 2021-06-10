@@ -1,0 +1,10 @@
+.LikeStatistics {
+  max-width: 10%;
+  margin-left: auto;
+  margin-right: 5px;
+}
+
+.LikeStatistics > i.fa-thumbs-up,
+.LikeStatistics > i.fa-thumbs-down {
+  cursor: pointer;
+}
